@@ -22,7 +22,7 @@
 ### Testing Documentation
 
 
-- [SQL Queries]()
+- [SQL Queries](https://github.com/annAviator/SQL)
 - [Postman Collections]()
 
 ### Сourses
