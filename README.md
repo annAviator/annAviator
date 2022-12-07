@@ -23,7 +23,7 @@
 
 
 - [SQL Queries](https://github.com/annAviator/SQL)
-- [Postman Collections](https://github.com/annAviator/Postman)
+<!--- - [Postman Collections](https://github.com/annAviator/Postman)) --->
 
 ### Сourses
 - Software development and testing (a course within the university program);
