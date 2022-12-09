@@ -1,6 +1,6 @@
 ## QA Engineer
 ## My CV
-[Link to my CV](https://docs.google.com/document/d/15-r-TNAa022a_T7qDSa2qU9ApIEPzu3O/edit?usp=sharing&ouid=102651515758928594406&rtpof=true&sd=true)
+[Link to my CV](https://drive.google.com/file/d/1pxy93iLNrFRfdMrN4NVR_WUnZjwT592D/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
